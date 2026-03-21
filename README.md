@@ -1,4 +1,9 @@
 Hi, I'm Pascal 👋
+<p float="left">
+  <img src="https://komarev.com/ghpvc/?username=Faith-lang-bot" alt="Profile Views" width="120"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Faith-lang-bot&show_icons=true" alt="GitHub Stats" width="250"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Faith-lang-bot&layout=compact" alt="Top Languages" width="200"/>
+</p>
 
 💻 Frontend Developer focused on building responsive, user-friendly, and high-performance web applications.
 🚀 Passionate about clean UI, React, and modern web technologies.
