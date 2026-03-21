@@ -1,4 +1,10 @@
 # Hi, I'm Pascal 👋
+## 📊 My GitHub Stats
+![Pascal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Faith-lang-bot&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Faith-lang-bot&layout=compact&theme=radical)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Faith-lang-bot&theme=radical)
 
 💻 **Frontend Developer** focused on building responsive, user-friendly, and high-performance web applications.  
 🚀 Passionate about **clean UI, React, and modern web technologies**.  
