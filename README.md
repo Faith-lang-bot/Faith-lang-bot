@@ -60,4 +60,5 @@ Preparing for frontend & full-stack developer roles
 📫 Contact Me
 
 Email:odhiambofaith2004@gmail.com
+
 LinkedIn: https://www.linkedin.com/in/faith-odhiambo-1a1047313/
