@@ -12,6 +12,11 @@
 
 ---
 
+## 💻 Portfolio
+Check out my live projects and portfolio here: [Portfolio]https://faithpascal-dev.vercel.app/
+
+---
+
 ## 🛠️ Tech Stack
 - **Frontend:** React, JavaScript (ES6+), HTML5, CSS3, CSS Modules  
 - **Backend (Learning):** Django  
